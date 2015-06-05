@@ -1,0 +1,20 @@
+body {
+	background-color: #FFFFDE;
+	color: #5A0000;
+	font-family: sans-serif;
+}
+
+li{
+	display:inline;
+	color:blue;
+}
+
+a{
+	text-decoration: none;
+	
+}
+
+thead{
+	background-color:orange;
+	color:blue;
+}
